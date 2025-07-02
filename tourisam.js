@@ -2,4 +2,5 @@ let a =10;
 let b =20;
 let c = a+b;
 let d = c;
-console.log(d);
+let e = d + d;
+console.log(e);
