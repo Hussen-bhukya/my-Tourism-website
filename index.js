@@ -1,3 +1,3 @@
-let a =30;
-let b =40;
-console.log(a+b);
+let b =30;
+let c=40;
+console.log(b+c);
