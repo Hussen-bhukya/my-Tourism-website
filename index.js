@@ -1,4 +1,4 @@
-let a =3;
-let b =3;
-let c =a+b;
-console.log(c);
+let c =30;
+let d =40;
+let e =c+d;
+console.log(e);
