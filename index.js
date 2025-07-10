@@ -1,9 +1,4 @@
-let c =30;
-let d =20;
-let e =c+d;
-console.log(e);  
-
-let a =40;
-let b =50;
-let f = a+b;
-console.log(f);
+let a =100;
+let b =200;
+let c = a+b;
+console.log(c)
