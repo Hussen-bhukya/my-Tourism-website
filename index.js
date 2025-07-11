@@ -1,4 +1,4 @@
-let a =100;
-let b =200;
-let c = a+b;
-console.log(c)
+let Ba = "hello world";
+let Ca = "welcome";
+let Za = Ba +' '+Ca;
+console.log(Za);
